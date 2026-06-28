@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-06-29",
+  "source_name": "WiFiShare Čapljina",
+  "cities": [
+    {
+      "id": "capljina",
+      "name": "Čapljina",
+      "country": "BA",
+      "places": [
+        {
+          "id": "fc-life-capljina",
+          "name": "FC-Life",
+          "type": "public",
+          "address": "Čapljina",
+          "ssid": "FC-Life",
+          "password": "fitnes2017",
+          "lat": null,
+          "lng": null,
+          "owner_approved": true,
+          "status": "verified",
+          "last_verified": "2026-06-29",
+          "notes": "Uneseno iz dostavljenog screenshota. Provjeriti točnu lokaciju/adresu."
+        },
+        {
+          "id": "marlena1-capljina",
+          "name": "Marlena",
+          "type": "cafe",
+          "address": "Čapljina",
+          "ssid": "marlena1",
+          "password": "87654321",
+          "lat": null,
+          "lng": null,
+          "owner_approved": true,
+          "status": "verified",
+          "last_verified": "2026-06-29",
+          "notes": "Uneseno iz dostavljenog screenshota. Provjeriti službeni naziv i adresu."
+        },
+        {
+          "id": "herons-capljina",
+          "name": "Heron's",
+          "type": "cafe",
+          "address": "Čapljina",
+          "ssid": "heron's",
+          "password": "heronspub",
+          "lat": null,
+          "lng": null,
+          "owner_approved": true,
+          "status": "verified",
+          "last_verified": "2026-06-29",
+          "notes": "Uneseno iz dostavljenog screenshota. Provjeriti službeni naziv i adresu."
+        },
+        {
+          "id": "royal-caffe-lounge-bar-capljina",
+          "name": "Royal Caffe Lounge Bar",
+          "type": "cafe",
+          "address": "Čapljina",
+          "ssid": "Royal Caffe Lounge Bar",
+          "password": "royal2017",
+          "lat": null,
+          "lng": null,
+          "owner_approved": true,
+          "status": "verified",
+          "last_verified": "2026-06-29",
+          "notes": "Uneseno iz dostavljenog screenshota. Provjeriti točnu adresu."
+        },
+        {
+          "id": "styx-caffe-lounge-bar-capljina",
+          "name": "STYX caffe lounge bar",
+          "type": "cafe",
+          "address": "Čapljina",
+          "ssid": "STYX caffe lounge bar",
+          "password": "styx2018",
+          "lat": null,
+          "lng": null,
+          "owner_approved": true,
+          "status": "verified",
+          "last_verified": "2026-06-29",
+          "notes": "Uneseno iz dostavljenog screenshota. Provjeriti točnu adresu."
+        }
+      ]
+    }
+  ]
+}
