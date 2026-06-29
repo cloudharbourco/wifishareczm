@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "updated_at": "2026-06-29",
-  "source_name": "WiFiShare Čapljina",
+  "source_name": "WiFiShare",
   "app_config": {
     "maintenance_mode": false,
     "directory_enabled": true,
@@ -84,6 +84,27 @@
           "status": "verified",
           "last_verified": "2026-06-29",
           "notes": "Uneseno iz dostavljenog screenshota. Provjeriti točnu adresu."
+        }
+      ]
+    },
+    {
+      "id": "mostar",
+      "name": "Mostar",
+      "country": "BA",
+      "places": [
+        {
+          "id": "cotta-bar",
+          "name": "Cotta BAR",
+          "type": "cafe",
+          "address": "Mostar",
+          "ssid": "Cotta Bar",
+          "password": "cottabar",
+          "lat": null,
+          "lng": null,
+          "owner_approved": true,
+          "status": "verified",
+          "last_verified": "2026-06-29",
+          "notes": "Šifra ustupljena od vlasnika!"
         }
       ]
     }
