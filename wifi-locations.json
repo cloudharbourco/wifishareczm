@@ -14,9 +14,6 @@
       "id": "capljina",
       "name": "Čapljina",
       "country": "BA",
-      "id": "mostar",
-      "name": "Mostar",
-      "country": "BA",
       "places": [
         {
           "id": "fc-life-capljina",
