@@ -2,6 +2,13 @@
   "schema_version": 1,
   "updated_at": "2026-06-29",
   "source_name": "WiFiShare Čapljina",
+  "app_config": {
+    "maintenance_mode": false,
+    "directory_enabled": true,
+    "minimum_supported_version": 1,
+    "message": "",
+    "force_update_url": ""
+  },
   "cities": [
     {
       "id": "capljina",
